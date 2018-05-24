@@ -12,6 +12,6 @@
 #include <malloc.h>
 //In C++ e' meglio usare new() al posto di malloc()
 #include <stdlib.h>
-
+#include "../config.h"
 
 // TODO: fare riferimento qui alle intestazioni aggiuntive richieste dal programma
