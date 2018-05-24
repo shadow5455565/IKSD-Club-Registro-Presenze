@@ -27,7 +27,10 @@ Luca Cuccovillo:
 	num. cell.: +39 348 427 2556
 	instagram: @cuccos01
 
+This configuration file may will be changed to a text file for live editing.
+This will be automatically included with the API for files processing.
 */
+
 
 //Location of the data used by the application.
 const char* DIR_DATA = "./Data";
