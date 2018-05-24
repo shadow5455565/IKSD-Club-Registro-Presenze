@@ -21,19 +21,7 @@
 
 #include "stdafx.h"
 
-typedef unsigned char Byte;
 
-//Date format dd/mm/aaaa;
-typedef struct {
-	int d;
-	int m;
-	int a;
-}Date; 
-
-typedef struct {
-	Date data;
-	Byte presenza;
-}Presenza;
 
 //Function that reads from a default file "namesurnameid.dat" in directory "/Presenze/"
 //@param int* n is a pointer to a variable containing the number of the elements in the array.
