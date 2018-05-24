@@ -3,7 +3,7 @@
 	(from now identified as Club, The Club, IT Knowledge Squad, IKSD, I.K.S.D. Club),
 	which is part of I.I.S. S. Ten. Vas. A. Badoni, Lecco, Via Rivolta, is present at The Club
     
-	Copyright (C) 2018  Luca Cuccovillo, Raul Radu .
+	Copyright (C) 2018  Luca Cuccovillo, Raul Radu.
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
