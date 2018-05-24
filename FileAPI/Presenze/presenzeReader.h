@@ -15,3 +15,5 @@ typedef struct {
 	Date data;
 	Byte presenza;
 }Presenza;
+
+Presenza* initializePresenze(int* n, const char* fileDir);
