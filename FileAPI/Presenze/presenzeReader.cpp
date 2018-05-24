@@ -20,7 +20,6 @@
 */
 
 #include "stdafx.h"
-#include "../config.h"
 
 typedef unsigned char Byte;
 
