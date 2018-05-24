@@ -19,9 +19,6 @@
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 */
 
-#include "stdafx.h"
-
-
 
 //Function that reads from a default file "namesurnameid.dat" in directory "/Presenze/"
 //@param int* n is a pointer to a variable containing the number of the elements in the array.
