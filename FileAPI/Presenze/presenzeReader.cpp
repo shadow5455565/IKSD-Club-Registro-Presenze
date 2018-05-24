@@ -64,7 +64,8 @@ Presenza* initializePresenze(int* n, const char* fileDir){
 	return newArr;
 }
 
-int main()
+//Funzione di test.
+int test()
 {
 	int n, i;
 	Presenza* presenze = initializePresenze(&n, "./test.dat");
