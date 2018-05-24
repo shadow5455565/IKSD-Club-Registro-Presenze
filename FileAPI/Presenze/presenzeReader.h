@@ -16,5 +16,11 @@ typedef struct {
 	Byte presenza;
 }Presenza;
 
+
+int dateCmp(Date d1, Date d2);
 Presenza* initializePresenze(int* n, const char* fileDir);
+void savePresenze(Presenza* presenze, int* n);
+int searchPresenza(Presenza* presenze, int n, Date data);
+void deletePresenza(Presenza* presenze, int *n, int pos);
+void modPresenza(Presenza* presenze, int* n, int pos, Presenza modificatons);
 int test();
