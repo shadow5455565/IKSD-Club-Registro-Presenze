@@ -1,0 +1,4 @@
+La GAPI, o Graphical API, e' l'API per la grafica del programma.
+Sarà fatta con le classi.
+class menu();
+typedef int (*menuHandle)(void* parameters);
