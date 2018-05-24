@@ -1,5 +1,7 @@
 //Header file of presenzeReader.cpp
 
+#include "stdafx.h"
+
 typedef unsigned char Byte;
 
 //Date format dd/mm/aaaa;
