@@ -17,3 +17,4 @@ typedef struct {
 }Presenza;
 
 Presenza* initializePresenze(int* n, const char* fileDir);
+int test();
